@@ -1,4 +1,6 @@
 # bc-genetics
+
+[![Join the chat at https://gitter.im/KHP-Informatics/bc-genetics](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/KHP-Informatics/bc-genetics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Workflows and tools for standard Genomic &amp; Transcriptomic Analysis (SNP and Expression Arrays)
 *COMING SOON*  
 
