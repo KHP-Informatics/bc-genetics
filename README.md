@@ -9,6 +9,8 @@ Workflows and tools for standard Genomic &amp; Transcriptomic Analysis (SNP and 
 - GWAS-QC, -PCA, -Imputation
 - R Workflows : Data Science, Machine Learning and Biostatistics  
 
+## Docker
+- https://hub.docker.com/r/compbio/genetics/  
 
 ## Contributing to bc-genetics
 - Fork it!
